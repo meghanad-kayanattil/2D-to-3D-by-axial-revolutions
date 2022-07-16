@@ -22,4 +22,4 @@ In order to covert the created 3D surface into a meshed surface (format compatab
 A notebook explaining the use of the simple library is included [here](https://github.com/meghanad-kayanattil/2D-to-3D-by-axial-revolutions/blob/main/Demonstrative%20examples.ipynb) 
 
 ## References
-The repository is inspired by the lack of a functionlaity like Cylinder() in Matlab for Python
+The repository is inspired by the lack of a functionlaity like [Cylinder()](https://de.mathworks.com/help/matlab/ref/cylinder.html) in Matlab for Python
