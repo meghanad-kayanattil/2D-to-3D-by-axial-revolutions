@@ -13,9 +13,9 @@ This repository contains functions and a demonstrative notebook which can be use
 
 ## Prerequisite
 
-Essential libraries required for the simulation are the common ones, numpy, scipy, math and matplotlib. 
+Essential libraries required for the simulation are the common ones: numpy, scipy, math and matplotlib. 
 
-Inorder to covert the created 3D surface into a meshed surface (format compatable with CAD, Adobe Dimension etc. ) which can be later used for engineering as well as 
+In order to covert the created 3D surface into a meshed surface (format compatable with CAD, Adobe Dimension etc. ) which can be later used for engineering as well as 
 3D printing applications, please install the library [PyVista](https://docs.pyvista.org/)
 
 ## Usage/Examples
