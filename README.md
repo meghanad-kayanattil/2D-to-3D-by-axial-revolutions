@@ -1,5 +1,5 @@
 
-# 2D plots to 3D surfaces by revolution
+# 2D plots to 3D surfaces by rotations
 
 This repository contains functions and a demonstrative notebook which can be used to convert 2D axial symmetric plots into 3D surfaces with ease.
 
